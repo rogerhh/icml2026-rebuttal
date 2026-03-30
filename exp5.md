@@ -5,4 +5,4 @@ For each parameter type (position, scale, rotation, opacity, color), we select a
 We use our trust region clipping kernel to clip the perturbation by varying trust region thresholds, and measure the resulting squared Hellinger distance.
 
 
-![Experiment results](https://anonymous.4open.science/r/8T9B6D4P/fig5.png)  
+![Experiment results](https://anonymous.4open.science/r/8D9R6H4T/fig5.png)  
